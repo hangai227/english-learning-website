@@ -1,0 +1,122 @@
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Học Tiếng Anh Thi KET và PET</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        .chill-music {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .game {
+            margin: 20px 0;
+            text-align: center;
+        }
+        .game iframe {
+            width: 100%;
+            height: 500px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Học Tiếng Anh Thi KET và PET</h1>
+</header>
+
+<nav>
+    <a href="#intro">Giới thiệu</a>
+    <a href="#resources">Tài liệu học</a>
+    <a href="#practice">Luyện thi</a>
+    <a href="#blog">Blog</a>
+    <a href="#games">Trò chơi</a>
+    <a href="#contact">Liên hệ</a>
+</nav>
+
+<section id="intro">
+    <h2>Giới thiệu</h2>
+    <p>Chào mừng bạn đến với trang web học tiếng Anh dành riêng cho người Việt, nơi chúng tôi cung cấp tài liệu và hướng dẫn để giúp bạn vượt qua các kỳ thi chứng chỉ A2-B1 (KET và PET của Cambridge).</p>
+</section>
+
+<section id="resources">
+    <h2>Tài liệu học</h2>
+    <p>Chúng tôi cung cấp các bài giảng, video, và tài liệu PDF để giúp bạn học tiếng Anh một cách hiệu quả.</p>
+</section>
+
+<section id="practice">
+    <h2>Luyện thi</h2>
+    <p>Tham gia các bài tập và đề thi thử để làm quen với cấu trúc đề thi và nâng cao kỹ năng làm bài.</p>
+</section>
+
+<section id="blog">
+    <h2>Blog</h2>
+    <p>Đọc các bài viết chia sẻ kinh nghiệm học tiếng Anh, mẹo thi cử và câu chuyện thành công từ những người đã vượt qua kỳ thi.</p>
+</section>
+
+<section id="games">
+    <h2>Trò chơi</h2>
+    <p>Tham gia các trò chơi học tiếng Anh để làm cho việc học trở nên thú vị và bớt nhàm chán.</p>
+    <div class="game">
+        <iframe src="https://wordwall.net/embed/d5f7e7f3f0e648a4843b4d6b7a93bda5?themeId=1&templateId=5" frameborder="0" allowfullscreen></iframe>
+    </div>
+</section>
+
+<section class="chill-music">
+    <h2>Thư giãn với âm nhạc</h2>
+    <audio controls>
+        <source src="your-vietnamese-music-file.mp3" type="audio/mpeg">
+        Trình duyệt của bạn không hỗ trợ thẻ âm thanh.
+    </audio>
+</section>
+
+<section id="contact">
+    <h2>Liên hệ</h2>
+    <p>Nếu bạn có bất kỳ câu hỏi hoặc cần hỗ trợ, vui lòng liên hệ với chúng tôi qua email: <a href="mailto:contact@hoc-tieng-anh.com">contact@hoc-tieng-anh.com</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Học Tiếng Anh Thi KET và PET. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
